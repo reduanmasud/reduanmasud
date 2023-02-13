@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Reduan Masud</h1>
-<h3 align="center">I am Competitive Programmer | Fast Learner and Web Developer</h3>
+<h3 align="center">I am a Teacher |Competitive Programmer | Fast Learner and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reduanmasud&label=Profile%20views&color=0e75b6&style=flat" alt="reduanmasud" /> </p>
 
