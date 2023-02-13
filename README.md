@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **CP, PHP**
 
-- 📫 How to reach me **reduanmasud@gmail.com**
+- 📫 How to reach me **reduan@wpdeveloper.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
