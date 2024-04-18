@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Reduan Masud</h1>
-<h3 align="center">🚀 DevOps & Cloud Enthusiast | Competitive Programmer | Self-taught PHP Web Developer | Empowering Learners | Let's Code and Learn Together! 💻🌟</h3>
+<h3 align="center">Currently I am Software Test Engineer @ Startise. I am a DevOps & Cloud Enthusiast | Competitive Programmer | Self-taught PHP Web Developer | Empowering Learners | Let's Code and Learn Together! 💻🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reduanmasud&label=Profile%20views&color=0e75b6&style=flat" alt="reduanmasud" /> </p>
 
